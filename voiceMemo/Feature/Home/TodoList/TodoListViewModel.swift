@@ -5,6 +5,7 @@
 
 import Foundation
 
-class TodoListViewModel {
+class TodoListViewModel: ObservableObject {
   
+
 }
